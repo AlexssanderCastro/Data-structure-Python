@@ -116,7 +116,7 @@
 | 1     | Selection Sort            | 6         | 0.001005              |
 | 1     | Selection Sort Otimizado  | 4         | 0.001002              |
 | 2     | Selection Sort            | 7         | 0.002163              |
-| 2     | Selection Sort Otimizado  | 7         |                       |
+| 2     | Selection Sort Otimizado  | 3         | 0.000999              |
 | 3     | Selection Sort            | 7         | 0.002088              |
 | 3     | Selection Sort Otimizado  | 1         | 0.001010              |
 
