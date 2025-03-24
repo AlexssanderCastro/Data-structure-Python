@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <strong>🎯Análise conclusiva dos resultados</strong>
+  <h2>🎯Análise conclusiva dos resultados</h2>
 </p>
 
 <p align="justify">
