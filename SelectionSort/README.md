@@ -118,7 +118,7 @@
 | 2     | Selection Sort            | 7         | 0.002163              |
 | 2     | Selection Sort Otimizado  | 7         |                       |
 | 3     | Selection Sort            | 7         | 0.002088              |
-| 3     | Selection Sort Otimizado  | 7         |                       |
+| 3     | Selection Sort Otimizado  | 1         | 0.001010              |
 
 
 </div>
