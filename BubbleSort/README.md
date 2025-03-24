@@ -50,11 +50,10 @@
 
 ![image](https://github.com/user-attachments/assets/37fa587b-ddfe-4a4b-abad-f295317291d5)
 
-
-
-
-
-<strong>/n/n/nTeste 2: lista = [22, 35, 15, 14, 1, 29, 72]</strong>
+<br>
+<br>
+<br>
+<strong>Teste 2: lista = [22, 35, 15, 14, 1, 29, 72]</strong>
 
 
 <p align="center">
@@ -70,11 +69,11 @@
 
 ![image](https://github.com/user-attachments/assets/088e0873-6497-4b77-90b6-925599f5ee76)
 
+<br>
+<br>
+<br>
 
-
-
-
-<strong>/n/n/nTeste 3: lista = [1, 5, 23, 44, 42, 41, 57]</strong>
+<strong>Teste 3: lista = [1, 5, 23, 44, 42, 41, 57]</strong>
 
 
 <p align="center">
