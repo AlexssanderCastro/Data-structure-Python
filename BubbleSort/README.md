@@ -101,6 +101,8 @@
   <strong>Comparação de tempo e iterações</strong>
 </p>
 
+<div align="center">
+
 | Teste | Algoritmo              | Iterações | Tempo de Execução (s) |
 |:-----:|:----------------------:|:---------:|:---------------------:|
 | 1     | Bubble Sort            | 5         | 0.001192              |
@@ -109,6 +111,10 @@
 | 2     | Bubble Sort Otimizado  | 5         | 0.002481              |
 | 3     | Bubble Sort            | 6         | 0.001016              |
 | 3     | Bubble Sort Otimizado  | 3         | 0.001053              |
+| **Média** | **Bubble Sort** | **5.67** | **0.001452** |
+| **Média** | **Bubble Sort Otimizado** | **4.00** | **0.001512** |
+
+</div>
 
 ---
 
