@@ -118,7 +118,9 @@
 ---
 
 <p align="center">
-  <strong>Análise conclusiva dos resultados</strong>
+  <strong>🎯Análise conclusiva dos resultados</strong>
 </p>
 
- Embora o Bubble Sort Otimizado reduza o número de iterações ao detectar quando a lista já está ordenada, em alguns casos ele pode apresentar um tempo de execução maior. Isso ocorre porque a versão otimizada adiciona uma verificação extra a cada iteração para determinar se houve trocas, o que gera uma pequena sobrecarga computacional. Em listas pequenas, essa verificação pode anular os ganhos da otimização, tornando o tempo de execução similar ou até ligeiramente maior do que o Bubble Sort tradicional. Além disso, variações no processamento do sistema podem influenciar os tempos medidos. No entanto, para listas grandes ou quase ordenadas, a versão otimizada geralmente se destaca, reduzindo significativamente as iterações e melhorando o desempenho geral.
+<p align="justify">
+Embora o Bubble Sort Otimizado reduza o número de iterações ao detectar quando a lista já está ordenada, em alguns casos ele pode apresentar um tempo de execução maior. Isso ocorre porque a versão otimizada adiciona uma verificação extra a cada iteração para determinar se houve trocas, o que gera uma pequena sobrecarga computacional. Em listas pequenas, essa verificação pode anular os ganhos da otimização, tornando o tempo de execução similar ou até ligeiramente maior do que o Bubble Sort tradicional. Além disso, variações no processamento do sistema podem influenciar os tempos medidos. No entanto, para listas grandes ou quase ordenadas, a versão otimizada geralmente se destaca, reduzindo significativamente as iterações e melhorando o desempenho geral.
+</p>
