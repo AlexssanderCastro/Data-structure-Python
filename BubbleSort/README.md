@@ -33,7 +33,7 @@
   <strong>Testes</strong>
 </p>
 
-
+---
 
 <strong>Teste 1: lista = [11, 4, 30, 22, 7, 26]</strong>
 
@@ -53,6 +53,7 @@
 <br>
 <br>
 <br>
+---
 <strong>Teste 2: lista = [22, 35, 15, 14, 1, 29, 72]</strong>
 
 
@@ -72,7 +73,7 @@
 <br>
 <br>
 <br>
-
+---
 <strong>Teste 3: lista = [1, 5, 23, 44, 42, 41, 57]</strong>
 
 
