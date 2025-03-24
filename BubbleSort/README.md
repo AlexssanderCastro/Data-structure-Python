@@ -5,10 +5,9 @@
 
 
 
-Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado.
-
-
 ---
 
-
+<p align="center">
+  Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado.
+</p>
 
