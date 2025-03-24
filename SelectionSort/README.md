@@ -21,12 +21,12 @@
 
 <strong>SelectionSort Tradicional:</strong>
 
-![image](https://github.com/user-attachments/assets/b5322394-3140-4b43-bd77-75b955638605)
+![image](https://github.com/user-attachments/assets/aeb18a86-ea1e-47ec-b3ea-1bf27d097fa1)
 
 
 <strong>SelectionSort Otimizado:</strong>
 
-![image](https://github.com/user-attachments/assets/aeb18a86-ea1e-47ec-b3ea-1bf27d097fa1)
+
 
 
 
@@ -44,14 +44,15 @@
   <strong>SelectionSort Tradicional</strong>
 </p>
 
-![image](https://github.com/user-attachments/assets/4182b44a-8e83-43cf-923f-855af1a1ba7e)
+![image](https://github.com/user-attachments/assets/c8ea84dd-9d5d-4563-8e81-377677136208)
 
 
 <p align="center">
   <strong>SelectionSort Otimizado</strong>
 </p>
 
-![image](https://github.com/user-attachments/assets/c8ea84dd-9d5d-4563-8e81-377677136208)
+![image](https://github.com/user-attachments/assets/2a9659a3-6fd1-438d-81b0-06c5ef03540b)
+
 
 
 <br>
@@ -67,14 +68,15 @@
   <strong>SelectionSort Tradicional</strong>
 </p>
 
-![image](https://github.com/user-attachments/assets/ff2c4ee9-5441-479c-8ffe-bc88e11e9fa1)
+![image](https://github.com/user-attachments/assets/6b943a75-a8a1-4661-ac58-80c6098dac9e)
 
 
 <p align="center">
   <strong>SelectionSort Otimizado</strong>
 </p>
 
-![image](https://github.com/user-attachments/assets/6b943a75-a8a1-4661-ac58-80c6098dac9e)
+![image](https://github.com/user-attachments/assets/0cd62029-0e84-4a84-8467-bdc71b7f74d2)
+
 
 
 <br>
@@ -90,15 +92,15 @@
   <strong>SelectionSort Tradicional</strong>
 </p>
 
-![image](https://github.com/user-attachments/assets/89a39e02-7440-4676-804e-1bc591ce4721)
-
+![image](https://github.com/user-attachments/assets/b072ddf3-33f5-4fe4-96bb-e7cfde4ef926)
 
 <p align="center">
   <strong>SelectionSort Otimizado</strong>
 </p>
 
+![image](https://github.com/user-attachments/assets/115ae727-2594-4aac-af85-6c25ffc968cf)
 
-![image](https://github.com/user-attachments/assets/b072ddf3-33f5-4fe4-96bb-e7cfde4ef926)
+
 
 
 ---
@@ -111,12 +113,12 @@
 
 | Teste | Algoritmo                 | Iterações | Tempo de Execução (s) |
 |:-----:|:-------------------------:|:---------:|:---------------------:|
-| 1     | Selection Sort            | 6         | 0.000962              |
-| 1     | Selection Sort Otimizado  | 6         | 0.001005              |
-| 2     | Selection Sort            | 7         | 0.001000              |
-| 2     | Selection Sort Otimizado  | 7         | 0.002163              |
-| 3     | Selection Sort            | 7         | 0.001259              |
-| 3     | Selection Sort Otimizado  | 7         | 0.002088              |
+| 1     | Selection Sort            | 6         | 0.001005              |
+| 1     | Selection Sort Otimizado  | 4         | 0.001002              |
+| 2     | Selection Sort            | 7         | 0.002163              |
+| 2     | Selection Sort Otimizado  | 7         |                       |
+| 3     | Selection Sort            | 7         | 0.002088              |
+| 3     | Selection Sort Otimizado  | 7         |                       |
 
 
 </div>
