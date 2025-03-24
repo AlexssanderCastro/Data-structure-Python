@@ -1,7 +1,14 @@
-# Estrutura de Dados 2: ## Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado.
+# Estrutura de Dados 2
 
-<p align="center">
-  <strong>Aluno: Alexssander José de Oliveira de Castro</strong>
-</p>
+
+<strong>Aluno: Alexssander José de Oliveira de Castro</strong>
+
+
+
+Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado.
+
+
+---
+
 
 
