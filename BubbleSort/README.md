@@ -13,9 +13,9 @@
 
 
 ---
-<p align="center">
+<h2 align="center">
   <strong>Códigos</strong>
-</p>
+</h2>
 
 
 
@@ -29,9 +29,9 @@
 
 
 ---
-<p align="center">
+<h2 align="center">
   <strong>Testes</strong>
-</p>
+</h2>
 
 ---
 
@@ -97,9 +97,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
   <strong>Comparação de tempo e iterações</strong>
-</p>
+</h2>
 
 <div align="center">
 
