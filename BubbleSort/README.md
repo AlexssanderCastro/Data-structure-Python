@@ -8,6 +8,18 @@
 ---
 
 <p align="center">
-  Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado.
+  <strong>Comparação entre Bubble Sort Tradicional e Bubble Sort Otimizado</strong>
+</p>
+
+<strong>Teste 1:</strong>
+
+
+<p align="center">
+  <strong>BubbleSort Tradicional</strong>
+</p>
+
+
+<p align="center">
+  <strong>BubbleSort Otimizado</strong>
 </p>
 
