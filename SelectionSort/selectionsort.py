@@ -12,10 +12,11 @@ def selection_sort(array):
             if array[j] < array[menorP]:
                 menorP = j
         
-        
-        array[i], array[menorP] = array[menorP], array[i]
-        print(f"Iteração {i + 1}: {array} (Trocou {array[menorP]} com {array[i]})")
-       
+        if i != menorP:
+            array[i], array[menorP] = array[menorP], array[i]
+            print(f"Iteração {i + 1}: {array} (Trocou {array[menorP]} com {array[i]})")
+        else:
+            print(f"Iteração {i + 1}: {array} (Sem troca)")
     
     fim_tempo = time.time()
     print("Vetor depois da ordenação:", array)

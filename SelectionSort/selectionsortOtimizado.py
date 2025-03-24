@@ -8,15 +8,21 @@ def selection_sort_otimizado(array):
     
     for i in range(n):
         menorP = i
+        troca_ocorreu = False  # Flag para verificar se houve troca
+        
         for j in range(i + 1, n):
             if array[j] < array[menorP]:
                 menorP = j
         
-        if i != menorP:
+        if menorP != i:
             array[i], array[menorP] = array[menorP], array[i]
+            troca_ocorreu = True
             print(f"Iteração {i + 1}: {array} (Trocou {array[menorP]} com {array[i]})")
         else:
             print(f"Iteração {i + 1}: {array} (Sem troca)")
+        
+        if not troca_ocorreu:
+            break
     
     fim_tempo = time.time()
     print("Vetor depois da ordenação:", array)
