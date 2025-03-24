@@ -35,7 +35,7 @@
 
 ---
 
-<strong>Teste 1: lista = [11, 4, 30, 22, 7, 26]</strong>
+<strong>Teste 1️⃣: lista = [11, 4, 30, 22, 7, 26]</strong>
 
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ---
 
-<strong>Teste 2: lista = [22, 35, 15, 14, 1, 29, 72]</strong>
+<strong>Teste 2️⃣: lista = [22, 35, 15, 14, 1, 29, 72]</strong>
 
 
 <p align="center">
@@ -78,7 +78,7 @@
 
 ---
 
-<strong>Teste 3: lista = [1, 5, 23, 44, 42, 41, 57]</strong>
+<strong>Teste 3️⃣: lista = [1, 5, 23, 44, 42, 41, 57]</strong>
 
 
 <p align="center">
@@ -100,3 +100,20 @@
 <p align="center">
   <strong>Comparação de tempo e iterações</strong>
 </p>
+
+| Teste | Algoritmo              | Iterações | Tempo de Execução (s) |
+|:-----:|:----------------------:|:---------:|:---------------------:|
+| 1     | Bubble Sort            | 5         | 0.001192              |
+| 1     | Bubble Sort Otimizado  | 4         | 0.001002              |
+| 2     | Bubble Sort            | 6         | 0.002149              |
+| 2     | Bubble Sort Otimizado  | 5         | 0.002481              |
+| 3     | Bubble Sort            | 6         | 0.001016              |
+| 3     | Bubble Sort Otimizado  | 3         | 0.001053              |
+
+---
+
+<p align="center">
+  <strong>Análise conclusiva dos resultados</strong>
+</p>
+
+ Embora o Bubble Sort Otimizado reduza o número de iterações ao detectar quando a lista já está ordenada, em alguns casos ele pode apresentar um tempo de execução maior. Isso ocorre porque a versão otimizada adiciona uma verificação extra a cada iteração para determinar se houve trocas, o que gera uma pequena sobrecarga computacional. Em listas pequenas, essa verificação pode anular os ganhos da otimização, tornando o tempo de execução similar ou até ligeiramente maior do que o Bubble Sort tradicional. Além disso, variações no processamento do sistema podem influenciar os tempos medidos. No entanto, para listas grandes ou quase ordenadas, a versão otimizada geralmente se destaca, reduzindo significativamente as iterações e melhorando o desempenho geral.
