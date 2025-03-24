@@ -111,12 +111,12 @@
 
 | Teste | Algoritmo                 | Iterações | Tempo de Execução (s) |
 |:-----:|:-------------------------:|:---------:|:---------------------:|
-| 1     | Selection Sort            | 5         | 0.001192              |
-| 1     | Selection Sort Otimizado  | 4         | 0.001002              |
-| 2     | Selection Sort            | 6         | 0.002149              |
-| 2     | Selection Sort Otimizado  | 5         | 0.002481              |
-| 3     | Selection Sort            | 6         | 0.001016              |
-| 3     | Selection Sort Otimizado  | 3         | 0.001053              |
+| 1     | Selection Sort            | 6         | 0.000962              |
+| 1     | Selection Sort Otimizado  | 6         | 0.001005              |
+| 2     | Selection Sort            | 7         | 0.001000              |
+| 2     | Selection Sort Otimizado  | 7         | 0.002163              |
+| 3     | Selection Sort            | 7         | 0.001259              |
+| 3     | Selection Sort Otimizado  | 7         | 0.002088              |
 
 
 </div>
