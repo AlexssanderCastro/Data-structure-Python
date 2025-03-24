@@ -21,12 +21,14 @@
 
 <strong>SelectionSort Tradicional:</strong>
 
-![image](https://github.com/user-attachments/assets/aeb18a86-ea1e-47ec-b3ea-1bf27d097fa1)
+![image](https://github.com/user-attachments/assets/e6a4144d-0443-4c10-958a-bffa10f8941b)
+
 
 
 <strong>SelectionSort Otimizado:</strong>
 
 
+![image](https://github.com/user-attachments/assets/76e24f51-c38b-4724-bd83-19ba00323269)
 
 
 
@@ -130,5 +132,5 @@
 
 
 <p align="justify">
-Embora o Bubble Sort Otimizado reduza o número de iterações ao detectar quando a lista já está ordenada, em alguns casos ele pode apresentar um tempo de execução maior. Isso ocorre porque a versão otimizada adiciona uma verificação extra a cada iteração para determinar se houve trocas, o que gera uma pequena sobrecarga computacional. Em listas pequenas, essa verificação pode anular os ganhos da otimização, tornando o tempo de execução similar ou até ligeiramente maior do que o Bubble Sort tradicional. Além disso, variações no processamento do sistema podem influenciar os tempos medidos. No entanto, para listas grandes ou quase ordenadas, a versão otimizada geralmente se destaca, reduzindo significativamente as iterações e melhorando o desempenho geral.
+Embora ao analisar os tempos e iterações na tabela, pareça que a tentativa de otimizar tenha sido bem sucedida, ela foi uma completa falha, pois ela só funcionará corretamente quando nenhum número estiver na sua posição correta no inicio da lista, pois assim que você parar o ordenamento pela condição de que o numero já está em sua posição e por isso não aconteceram trocas, você está desconsiderando totalmente que os próximos números podem estar desordenados.
 </p>
