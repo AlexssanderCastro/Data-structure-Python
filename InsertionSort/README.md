@@ -69,9 +69,9 @@
 
 | Teste | Iterações | Tempo de Execução (s) |
 |:-----:|:---------:|:---------------------:|
-| 1     | 5         | 0.001192              |
-| 2     | 4         | 0.001002              |
-| 3     | 6         | 0.002149              |
+| 1     | 5         | 0.001001              |
+| 2     | 6         | 0.001000              |
+| 3     | 20        | 0.002006              |
 
 
 
@@ -84,5 +84,5 @@
 
 
 <p align="justify">
-
+O insertion_sort é um algoritmo simples e fácil de entender. Ele funciona muito bem quando a lista tem poucos elementos ou já está quase em ordem. Apesar de não ser o mais rápido pra listas grandes, em situações menores ou mais organizadas, ele dá conta do recado rapidinho. É ótimo pra aprender os conceitos de ordenação e ainda é usado em partes de algoritmos mais avançados.
 </p>
