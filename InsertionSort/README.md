@@ -17,6 +17,11 @@
   <strong>Código</strong>
 </h2>
 
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/1e3b87a8-b7e9-4bd4-ad49-79fe6a8cf649)
+
 
 ---
 <h2 align="center">
