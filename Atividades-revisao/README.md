@@ -1,4 +1,4 @@
-<h1 style=text-align: center>Atividades de revisão para prova</h1>
+<h1 style="text-align: center;">Atividades de revisão para prova</h1>
 
 ---
 
