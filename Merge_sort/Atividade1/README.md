@@ -2,7 +2,9 @@
 <hr>
 
 <h2>Questão 1:</h2>
+<br>
 <p>Algoritmo de ordenaçao decrescente do Merge Sort presente no arquivo Questão1.py</p>
+<br>
 <hr>
 <h2>Questão 2:</h2>
 <p>Os códigos de ordenação e de checagem de ordenação estão no arquivo Questão2.py</p>
@@ -43,10 +45,10 @@
 <hr>
 
 
-<h2>Questão 4:códigos no arquivo Questão4</h2>
-
-
-
+<h2>Questão 4:</h2>
+<br>
+Algoritmo de lista encadeada simples junto ao merge_sort que ordena essa lista presente no arquivo Questão4.py
+<br>
 <hr>
 <h2>Questão 5:Códigos presentes no arquivo Questão5</h2>
 
