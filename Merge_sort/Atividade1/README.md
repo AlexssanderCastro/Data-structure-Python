@@ -41,6 +41,8 @@
 <p>b)No caso do -1 não funciona, no +1 funciona</p>
 <p>c)Sim a variação de -1 provoca falha, pois voce acaba ignorando certos elementos, e pode inclusive fazer ser criado um loop infinito em alguns casos</p>
 <hr>
+
+
 <h2>Questão 4:códigos no arquivo Questão4</h2>
 
 
@@ -48,7 +50,7 @@
 <hr>
 <h2>Questão 5:Códigos presentes no arquivo Questão5</h2>
 
-<h3>Tabela de testes de comparação entre as versões do Merge Sort</h3>
+<h3> :clipboard: Tabela de testes de comparação entre as versões do Merge Sort</h3>
 
 | Tamanho do Vetor | Tempo Recursivo (s) | Tempo Iterativo (s) |
 | ---------------- | ------------------- | ------------------- |
@@ -59,6 +61,6 @@
 | 100.000          | 0.154               | 0.288               |
 | 500.000          | 1.061               | 1.713               |
 <br>
-<h3>Conclusão baseada nos testes:</h3> 
+<h3>:bar_chart: Conclusão baseada nos testes:</h3> 
 <p>A versão recursiva, além de ser mais simples de entender, possuiu um desempenho superior em todos os testes.</p>
 <hr>
