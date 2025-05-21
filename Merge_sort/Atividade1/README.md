@@ -59,5 +59,6 @@
 | 100.000          | 0.154               | 0.288               |
 | 500.000          | 1.061               | 1.713               |
 <br>
-<p>Conclusão baseada nos testes: A versão recursiva, além de ser mais simples de entender, possuiu um desempenho superior em todos os testes.</p>
+<h3>Conclusão baseada nos testes:</h3> 
+<p>A versão recursiva, além de ser mais simples de entender, possuiu um desempenho superior em todos os testes.</p>
 <hr>
